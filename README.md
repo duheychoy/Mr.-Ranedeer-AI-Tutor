@@ -1,4 +1,4 @@
-
+Can we use deepseek R1 instaead of using GPT-4 ?
 # Mr. Ranedeer Web Version coming soon!
 
 ---
